@@ -8,7 +8,4 @@ https://dwellbymichelle.com/wp-content/uploads/2021/01/DWELL-Japanese-Nerikiri-W
 
 # Compilation
 
-The project is intended to be compiled using Visual Studio with settings: \
-Configuration: Debug \
-Platform: Win32. \
-The settings can be found in Project->Properties->Configuration Manager
+To run the animation open file JNP_PROJECT_2D.sln using Visual Studio (*not* Visual Studio Code), open Project->Properties->Configuration Manager and select Configuration: Debug, Platform:Win32 and click Windows Default Debugger button.
