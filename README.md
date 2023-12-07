@@ -8,4 +8,4 @@ https://dwellbymichelle.com/wp-content/uploads/2021/01/DWELL-Japanese-Nerikiri-W
 
 # Compilation
 
-To run the animation open file JNP_PROJECT_2D.sln using Visual Studio (*not* Visual Studio Code), open Project->Properties->Configuration Manager and select Configuration: Debug, Platform:Win32 and click Windows Default Debugger button.
+To run the animation open file JNP_PROJECT_2D.sln using Visual Studio (*not* Visual Studio Code), open Project->Properties->Configuration Manager and select Configuration: Debug, Platform:Win32 and click Windows Local Debugger button.
